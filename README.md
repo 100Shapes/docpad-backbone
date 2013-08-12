@@ -15,12 +15,12 @@ This project will use the following tools:
 - [Handlebar Templates](http://handlebarsjs.com/)
 
 ### The plan
-1. [x] Start with a regular Backbone-boilerplate (BBB) project
-1. [x] Convert the BBB project to use Handlebars
-1. [ ] Create templates in an external directory to Docpad and Backbone so they can be shared across both
-2. [x] Create a Docpad project
-1. [ ] Configure the output directory for Docpad
-1. [ ] Tidy the whole project up so it's not embarrasing
+1. ~~Start with a regular Backbone-boilerplate (BBB) project~~
+1. ~~Convert the BBB project to use Handlebars~~
+1. Create templates in an external directory to Docpad and Backbone so they can be shared across both
+2. ~~Create a Docpad project~~
+1. Configure the output directory for Docpad
+1. Tidy the whole project up so it's not embarrasing
 
 ### And eventually…
 - Use Grunt to do things I don't understand
