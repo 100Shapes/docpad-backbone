@@ -13,3 +13,6 @@ results
 
 npm-debug.log
 .DS_Store
+
+docpad/node_modules
+out/
