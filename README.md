@@ -4,7 +4,7 @@ docpad-backbone
 Experiment to see how these tools can play nice together.
 
 ## Objective
-Create a [Docpad](http://docpad.org/) application that converts to a single-page [Backbone](http://backbonejs.org/) when the History API is supported by the browser.
+Create a [Docpad](http://docpad.org/) application that converts to a single-page [Backbone](http://backbonejs.org/) app when the History API is supported by the browser.
 
 ### Approach
 This project will use the following tools:
