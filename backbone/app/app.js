@@ -17,7 +17,7 @@ define(function(require, exports, module) {
     manage: true,
 
     // Indicate where templates are stored.
-    prefix: "app/templates/",
+    prefix: "../shared/templates/",
 
     // This custom fetch method will load pre-compiled templates or fetch them
     // remotely with AJAX.
