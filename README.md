@@ -35,3 +35,6 @@ This is experimental – do so at your own risk.
 1. Install the docpad things: `cd docpad && npm install`
 1. Install the Backbone things: `cd ../backbone/ && npm install`
 1. Run it :s
+
+## Things I'm thinking about
+See the [issues list](https://github.com/100Shapes/docpad-backbone/issues)
