@@ -1,0 +1,17 @@
+{
+  "generator-bbb": {
+    "name": "backbone",
+    "testFramework": "jasmine",
+    "moduleStyle": "amd",
+    "templateEngine": "handlebars",
+    "indent": {
+      "char": "space",
+      "size": 2
+    },
+    "paths": {
+      "base": ".",
+      "tests": "test",
+      "modules": "app/modules"
+    }
+  }
+}
