@@ -23,5 +23,5 @@ This project will use the following tools:
 ## And eventually…
 - Use Grunt to do things I don't understand
 - Use `r.js` to optmise and concatenate the `.js` files
-- Write test (maybe)
+- Write tests (maybe)
 
